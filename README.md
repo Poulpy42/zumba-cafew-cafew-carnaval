@@ -29,3 +29,5 @@ A video game with three.js
 - [ ] : As a ennemy, I want to move on one axe
 - [ ] : As a player, I want to decrease my life when I am touch by an ennemy
 - [ ] : As a player, I want to decrease my life when I fall 
+
+NOTE ESTIMEE : 40/100
